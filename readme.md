@@ -1,4 +1,4 @@
-# Spotify Versions Archive
+# Spotify Versions
 
 All Spotify Versions are Found [Here](https://docs.google.com/spreadsheets/d/1wztO1L4zvNykBRw7X4jxP8pvo11oQjT0O5DvZ_-S4Ok/edit#gid=0).
 
